@@ -4,12 +4,19 @@ Welcome to the HRMS-Upgrade repository! This project is a comprehensive HealthCa
 
 ![Screenshot 2024-07-06 at 3 32 38 PM](https://github.com/themihirmathur/HRMS-Upgrade/assets/92594107/36b09a81-2214-4950-bd28-dd086dc9ed45)
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Table of Contents
 1. Introduction
 2. Tech Stack
 3. Features
 4. Getting Start
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Introduction
 
@@ -19,6 +26,9 @@ For those who prefer visual learning, our in-depth tutorial on the JavaScript Ma
 
 ![Screenshot 2024-07-06 at 3 31 46 PM](https://github.com/themihirmathur/HRMS-Upgrade/assets/92594107/c35be8af-bedc-4eac-9b7d-b669f18d6df2)
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Tech Stack
 
@@ -28,6 +38,10 @@ For those who prefer visual learning, our in-depth tutorial on the JavaScript Ma
 - **TailwindCSS**: Utility-first CSS framework for rapid UI development.
 - **ShadCN**: Custom components for enhanced styling.
 - **Twilio**: Cloud communications platform for sending SMS notifications.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Features
 
@@ -39,6 +53,10 @@ For those who prefer visual learning, our in-depth tutorial on the JavaScript Ma
 - **Complete Responsiveness**: The application is fully responsive and works on all device types.
 - **File Upload**: Secure file upload and storage using Appwrite.
 - **Performance Monitoring**: Integration with Sentry for tracking application performance and error detection.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 ## Getting Start
 
@@ -99,3 +117,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 ---
 
 Thank you for using HRMS-Upgrade! If you have any questions or encounter any issues, please don't hesitate to reach out for assistance.
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
