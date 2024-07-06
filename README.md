@@ -1,6 +1,6 @@
 # HRMS-Upgrade ➕🏥
 
-Welcome to the HRMS-Upgrade repository! This project is a comprehensive HealthCare Management System built using modern web technologies to ensure scalability, maintainability, and a seamless user experience. This README provides a detailed overview of the project, including its features, setup instructions, and more.
+Welcome to the `HRMS-Upgrade`! This project is a comprehensive HealthCare Management System built using modern web technologies to ensure scalability, maintainability, and a seamless user experience. This README provides a detailed overview of the project, including its features, setup instructions, and more.
 
 ![Screenshot 2024-07-06 at 3 32 38 PM](https://github.com/themihirmathur/HRMS-Upgrade/assets/92594107/36b09a81-2214-4950-bd28-dd086dc9ed45)
 
@@ -74,7 +74,7 @@ Ensure you have the following installed:
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
+git clone https://github.com/themihirmathur/HRMS-Upgrade.git
 cd healthcare
 ```
 
